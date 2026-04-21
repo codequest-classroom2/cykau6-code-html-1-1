@@ -224,4 +224,17 @@ Now modify this code to make it YOUR own!
 
 ## AI Feedback
 
-> ⏳ No feedback yet — submit your work using the coding environment to get AI feedback!
+**⚠️ MISSION INCOMPLETE**
+
+**Points: 0 | Total XP: 0**
+
+*Last reviewed: 2026-04-21 04:30 UTC*
+
+### Results
+
+- ❌ Add <!DOCTYPE html> at the very top of your file **DOCTYPE declaration** — *Must include DOCTYPE declaration*
+- ❌ Make sure you have both opening <html> and closing </html> tags **HTML tags** — *Must have html tags*
+- ❌ Add <head> section with title **Head section** — *Must have head section with title*
+- ❌ Add <body> section for your content **Body section** — *Must have body section*
+
+[View your Progress Tree](https://codequest-classroom2.github.io/cykau6-code)
